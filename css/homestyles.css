@@ -1,0 +1,37 @@
+
+.container-fluid{
+    height: 100vh;
+    background-image: url('../assets/img/casa_gobierno/casagob1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.row{
+    height: 100vh;
+}
+
+h1{
+    font-size: 4em;
+    color: white;
+}
+
+#selectDiaDiv{ 
+    width: 20%;
+    /* position: absolute; */
+    z-index: 4000;
+    /* right: 20px; */
+    /* top: 20px; */
+    /* height: 50px;  */
+ }
+
+
+
+
+
+
+
+
+
+
+

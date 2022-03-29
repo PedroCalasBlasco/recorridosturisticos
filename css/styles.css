@@ -1,0 +1,36 @@
+#selectDiaDiv{ 
+    width: 30%;
+    position: absolute;
+    z-index: 4000;
+    left: 80px;
+    top: 95px;
+    height: 50px; 
+ }
+ 
+#map{ 
+    margin-top: 2px;
+    height: 90vh; 
+}
+
+#sidebar1{ 
+    top: 0;
+    position: absolute;
+    z-index: 5000;
+    width: 60%;
+    display: none;
+}
+
+#sidebar1 a{ 
+   cursor: pointer;
+}
+
+#sidebarContent{ 
+    background-color: white; 
+}
+
+header{
+    padding: 16px;
+    background-color: green; 
+    color: white;
+}
+

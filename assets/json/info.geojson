@@ -1,0 +1,18 @@
+[
+{
+    "id": 1,
+    "nombre": "Circuito Histórico", 
+    "duraccion": "33 minutos",
+    "recorrido": "4 Cuadras",
+    "descripcion": "Santa Fe fue fundada por Juan de Garay el 15 de noviembre de 1573, a varios kilómetros de su ubicación actual. En el recorrido por el casco histórico vas a encontrar información sobre el traslado de nuestra ciudad y la distribución de los espacios en el nuevo asentamiento. Conocerás cómo fue cambiando la plaza 25 de Mayo y las calles que la rodean; qué pasó con el Cabildo,  las historias detrás de la sanción de la Constitución Nacional; los detalles arquitectónicos de los edificios; el milagro del Santuario; y el paso del Papa Francisco por nuestras tierras, entre otros hechos."
+},
+{
+    "id": 2,
+    "nombre": "Museos y Lugares Históricos", 
+    "duraccion": "",
+    "recorrido": "",
+    "descripcion": "En el barrio Sur se encuentran una gran cantidad de museos y lugares que guardan gran parte de la historia de Santa Fe Capital. Durante este paseo vas a conocer detalles arquitectónicos de muchos edificios; las huellas y elementos que guardan nuestros museos; la historia del yaguareté del convento de San Francisco; el paso de Manuel Belgrano por esta ciudad; y cómo atraparon a un general con un par de boleadoras."
+}
+]
+
+
